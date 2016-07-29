@@ -25,6 +25,8 @@
 #include "DetourNavMeshBuilder.h"
 #include "DetourCommon.h"
 
+#include <limits.h>
+
 using namespace VMAP;
 
 namespace MMAP
